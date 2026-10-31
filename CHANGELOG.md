@@ -6,6 +6,10 @@ All notable changes to **LX Split Aim**.
 
 First public release on the Steam Workshop and GitHub.
 
+### Changed in this version
+
+- Russian translation added (EN/ES/AR/RU).
+
 ### Included
 
 - Shoot zombies on the ground
