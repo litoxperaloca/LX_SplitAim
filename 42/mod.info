@@ -1,0 +1,15 @@
+name=LX Split Aim (controller aim, split-screen)
+id=LX_SplitAim
+author=litoxperaloca (fork of "Here to Suffer not for Fun")
+description=Controller aim assist for EVERY local player in split-screen, with B41-style lock-on. The original mod kept its aim state in global flags, so in split-screen one player overwrote the other's; here every player has their own state, keyed by player index. Push the right stick toward a zombie and the reticle locks onto it, solving height automatically - zombies on the floor, crawling, or one level up or down. Soft-snap, lock-on cone, snap speed, tracking, hitbox zones and stick curve are all adjustable per taste in Options - MODS. Fork of [B42] Controller Aim Assist (MIT). Requires ZombieBuddy. Do not enable alongside the original.
+modversion=1.0.0
+versionMin=42.21
+poster=poster.png
+icon=icon.png
+url=https://github.com/litoxperaloca/LX_SplitAim
+require=\ZombieBuddy
+loadModAfter=\ZombieBuddy
+incompatible=\B42ControllerAimAssist
+javaJarFile=media/java/LXSplitAim.jar
+javaPkgName=lx.splitaim
+ZBVersionMin=2.3.0
