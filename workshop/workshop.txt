@@ -1,5 +1,5 @@
 version=1
-id=
+id=3831322290
 title=LX Split Aim
 description=[h1]LX Split Aim[/h1]
 description=[i]Controller aim that works, for every local player[/i]
