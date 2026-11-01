@@ -65,7 +65,7 @@ Options → MODS → **LX Split Aim**. Master switch, lock-on (cone, speed, floo
 
 - Vanilla B42 still requires holding the aim trigger to aim. This mod does not change that — it changes where the reticle goes once you are aiming.
 - Do **not** enable this together with the original Controller Aim Assist (B42). They patch the same thing; `mod.info` marks them incompatible.
-- Needs [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) 2.3.0+.
+- Needs [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) 2.3.0+. The first time you launch with it, ZombieBuddy shows a dialog naming this mod's JAR and its SHA-256, and loads nothing until you approve it: that is ZombieBuddy doing its job, not an error. Tick remember so it stops asking. If you run ZombieBuddy with policy=deny-new, approve it there first or the JAR is skipped in silence.
 
 ### Credits
 
@@ -143,7 +143,7 @@ Opciones → MODS → **LX Split Aim**. Interruptor general, fijado de blanco (c
 
 - La B42 vanilla sigue pidiendo mantener el gatillo de apuntar. Este mod no cambia eso — cambia a dónde va el retículo una vez que estás apuntando.
 - **No** lo actives junto con el Controller Aim Assist (B42) original. Parchean lo mismo; el `mod.info` los marca incompatibles.
-- Necesita [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) 2.3.0+.
+- Necesita [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) 2.3.0+. La primera vez que arranques con el, ZombieBuddy muestra un dialogo con el JAR de este mod y su SHA-256, y no carga nada hasta que lo apruebes: eso es ZombieBuddy haciendo su trabajo, no un error. Tilda recordar para que no pregunte mas. Si usas ZombieBuddy con policy=deny-new, aprobalo ahi primero o el JAR se saltea en silencio.
 
 ### Créditos
 
