@@ -75,6 +75,10 @@ Fork of [Controller Aim Assist (B42)](https://steamcommunity.com/sharedfiles/fil
 
 **MIT** — inherited from the mod this forks, and kept as required. Free for any use, including commercial, as long as the copyright notice travels with it. See `LICENSE`.
 
+### Support
+
+If these mods made your co-op run work, you can buy me a coffee — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
+
 ### The rest of the suite
 
 - [LX Coop Fixes](https://github.com/litoxperaloca/LX_CoopFixes) — Split-screen stability: vehicle crash, player 2 aiming, map stutter, error spam.
@@ -153,6 +157,10 @@ Fork de [Controller Aim Assist (B42)](https://steamcommunity.com/sharedfiles/fil
 
 **MIT** — heredada del mod del que es fork, y conservada como corresponde. Libre para cualquier uso, incluso comercial, mientras el aviso de copyright viaje con el código. Ver `LICENSE`.
 
+### Apoyar
+
+Si estos mods te arreglaron el coop, podés invitarme un café — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
+
 ### El resto de la suite
 
 - [LX Coop Fixes](https://github.com/litoxperaloca/LX_CoopFixes) — Estabilidad en pantalla dividida: crash de vehículos, apuntado del jugador 2, tirones del mapa, spam de errores.
@@ -230,6 +238,10 @@ B42 продолжает улучшать поддержку контролле�
 ### Лицензия
 
 **MIT** — унаследована от мода, форком которого это является, и сохранена как требуется. Свободно для любого использования, включая коммерческое, при условии что уведомление об авторских правах остаётся с кодом. См. `LICENSE`.
+
+### Поддержать
+
+Если эти моды помогли вашей совместной игре, можете угостить меня кофе — [ko-fi.com/litoxperaloca](https://ko-fi.com/litoxperaloca)
 
 ### Остальные моды набора
 
