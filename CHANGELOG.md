@@ -4,7 +4,7 @@ All notable changes to **LX Split Aim**.
 
 ## v1.0.0
 
-First public release on the Steam Workshop and GitHub.
+Update to an already published mod. Earlier versions are on the Workshop page.
 
 ### Changed in this version
 
